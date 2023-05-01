@@ -1,0 +1,809 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Book_Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Book_Store.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\10.jpg",
+      "PackagePath": "staticwebassets\\Images\\10.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\11.jpg",
+      "PackagePath": "staticwebassets\\Images\\11.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\12.jpg",
+      "PackagePath": "staticwebassets\\Images\\12.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\13.jpg",
+      "PackagePath": "staticwebassets\\Images\\13.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\14.jpg",
+      "PackagePath": "staticwebassets\\Images\\14.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\15.jpg",
+      "PackagePath": "staticwebassets\\Images\\15.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\16.jpg",
+      "PackagePath": "staticwebassets\\Images\\16.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\17.jpg",
+      "PackagePath": "staticwebassets\\Images\\17.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\18.jpg",
+      "PackagePath": "staticwebassets\\Images\\18.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\19.jpg",
+      "PackagePath": "staticwebassets\\Images\\19.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\20.jpg",
+      "PackagePath": "staticwebassets\\Images\\20.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\21.jpg",
+      "PackagePath": "staticwebassets\\Images\\21.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\22.jpg",
+      "PackagePath": "staticwebassets\\Images\\22.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\23.jpg",
+      "PackagePath": "staticwebassets\\Images\\23.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\24.jpg",
+      "PackagePath": "staticwebassets\\Images\\24.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\25.jpg",
+      "PackagePath": "staticwebassets\\Images\\25.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\26.jpg",
+      "PackagePath": "staticwebassets\\Images\\26.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\27.jpg",
+      "PackagePath": "staticwebassets\\Images\\27.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\28.jpg",
+      "PackagePath": "staticwebassets\\Images\\28.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\29.jpg",
+      "PackagePath": "staticwebassets\\Images\\29.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\30.jpg",
+      "PackagePath": "staticwebassets\\Images\\30.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\31.jpg",
+      "PackagePath": "staticwebassets\\Images\\31.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\32.jpg",
+      "PackagePath": "staticwebassets\\Images\\32.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\33.jpg",
+      "PackagePath": "staticwebassets\\Images\\33.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\34.jpg",
+      "PackagePath": "staticwebassets\\Images\\34.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\35.jpg",
+      "PackagePath": "staticwebassets\\Images\\35.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\36.jpg",
+      "PackagePath": "staticwebassets\\Images\\36.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\37.jpg",
+      "PackagePath": "staticwebassets\\Images\\37.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\38.jpg",
+      "PackagePath": "staticwebassets\\Images\\38.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\39.jpg",
+      "PackagePath": "staticwebassets\\Images\\39.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\4.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\40.jpg",
+      "PackagePath": "staticwebassets\\Images\\40.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\41.jpg",
+      "PackagePath": "staticwebassets\\Images\\41.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\42.jpg",
+      "PackagePath": "staticwebassets\\Images\\42.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\43.jpg",
+      "PackagePath": "staticwebassets\\Images\\43.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\44.jpg",
+      "PackagePath": "staticwebassets\\Images\\44.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\45.jpg",
+      "PackagePath": "staticwebassets\\Images\\45.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\46.jpg",
+      "PackagePath": "staticwebassets\\Images\\46.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\47.jpg",
+      "PackagePath": "staticwebassets\\Images\\47.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\48.jpg",
+      "PackagePath": "staticwebassets\\Images\\48.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\49.jpg",
+      "PackagePath": "staticwebassets\\Images\\49.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\5.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\50.jpg",
+      "PackagePath": "staticwebassets\\Images\\50.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\51.jpg",
+      "PackagePath": "staticwebassets\\Images\\51.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\52.jpg",
+      "PackagePath": "staticwebassets\\Images\\52.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\6.jpg",
+      "PackagePath": "staticwebassets\\Images\\6.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\7.jpg",
+      "PackagePath": "staticwebassets\\Images\\7.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\8.jpg",
+      "PackagePath": "staticwebassets\\Images\\8.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\9.jpg",
+      "PackagePath": "staticwebassets\\Images\\9.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a1.jpg",
+      "PackagePath": "staticwebassets\\Images\\a1.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a10.jpg",
+      "PackagePath": "staticwebassets\\Images\\a10.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a11.jpg",
+      "PackagePath": "staticwebassets\\Images\\a11.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a12.jpg",
+      "PackagePath": "staticwebassets\\Images\\a12.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a13.jpg",
+      "PackagePath": "staticwebassets\\Images\\a13.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a14.jpg",
+      "PackagePath": "staticwebassets\\Images\\a14.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a15.jpg",
+      "PackagePath": "staticwebassets\\Images\\a15.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a16.jpg",
+      "PackagePath": "staticwebassets\\Images\\a16.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a17.jpg",
+      "PackagePath": "staticwebassets\\Images\\a17.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a18.jpg",
+      "PackagePath": "staticwebassets\\Images\\a18.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a19.jpg",
+      "PackagePath": "staticwebassets\\Images\\a19.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a2.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a20.jpg",
+      "PackagePath": "staticwebassets\\Images\\a20.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a21.jpg",
+      "PackagePath": "staticwebassets\\Images\\a21.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a22.jpg",
+      "PackagePath": "staticwebassets\\Images\\a22.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a23.jpg",
+      "PackagePath": "staticwebassets\\Images\\a23.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a24.jpg",
+      "PackagePath": "staticwebassets\\Images\\a24.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a25.jpg",
+      "PackagePath": "staticwebassets\\Images\\a25.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a26.jpg",
+      "PackagePath": "staticwebassets\\Images\\a26.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a27.jpg",
+      "PackagePath": "staticwebassets\\Images\\a27.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a28.jpg",
+      "PackagePath": "staticwebassets\\Images\\a28.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a29.jpg",
+      "PackagePath": "staticwebassets\\Images\\a29.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a3.jpg",
+      "PackagePath": "staticwebassets\\Images\\a3.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a30.jpg",
+      "PackagePath": "staticwebassets\\Images\\a30.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a4.jpg",
+      "PackagePath": "staticwebassets\\Images\\a4.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a5.jpg",
+      "PackagePath": "staticwebassets\\Images\\a5.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a6.jpg",
+      "PackagePath": "staticwebassets\\Images\\a6.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a7.jpg",
+      "PackagePath": "staticwebassets\\Images\\a7.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a8.jpg",
+      "PackagePath": "staticwebassets\\Images\\a8.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\a9.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\about.jpg",
+      "PackagePath": "staticwebassets\\Images\\about.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\babel-head-section-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\babel-head-section-2.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\babel-head-section.jpg",
+      "PackagePath": "staticwebassets\\Images\\babel-head-section.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c1.jpg",
+      "PackagePath": "staticwebassets\\Images\\c1.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c2.jpg",
+      "PackagePath": "staticwebassets\\Images\\c2.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c3.jpg",
+      "PackagePath": "staticwebassets\\Images\\c3.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c4.jpg",
+      "PackagePath": "staticwebassets\\Images\\c4.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c5.jpg",
+      "PackagePath": "staticwebassets\\Images\\c5.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c6.jpg",
+      "PackagePath": "staticwebassets\\Images\\c6.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c7.jpg",
+      "PackagePath": "staticwebassets\\Images\\c7.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c8.jpg",
+      "PackagePath": "staticwebassets\\Images\\c8.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\c9.jpg",
+      "PackagePath": "staticwebassets\\Images\\c9.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\coming_of_age_category.jpg",
+      "PackagePath": "staticwebassets\\Images\\coming_of_age_category.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\d597a07b-7a4c-4726-a913-8c1e911a53cf_newShakespeare.jpg",
+      "PackagePath": "staticwebassets\\Images\\d597a07b-7a4c-4726-a913-8c1e911a53cf_newShakespeare.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\ddebecab-9fa8-4b59-90d4-72fbeadc6f5e_newShakespeare.jpg",
+      "PackagePath": "staticwebassets\\Images\\ddebecab-9fa8-4b59-90d4-72fbeadc6f5e_newShakespeare.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\dummy.png",
+      "PackagePath": "staticwebassets\\Images\\dummy.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\e13001f4-5031-483f-a887-3b6e1de6ae3e_newShakespeare.jpg",
+      "PackagePath": "staticwebassets\\Images\\e13001f4-5031-483f-a887-3b6e1de6ae3e_newShakespeare.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\f2adff40-aa8b-4ac8-a17a-f440ba9616b8_newShakespeare.jpg",
+      "PackagePath": "staticwebassets\\Images\\f2adff40-aa8b-4ac8-a17a-f440ba9616b8_newShakespeare.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\fantasy_category.jpg",
+      "PackagePath": "staticwebassets\\Images\\fantasy_category.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\history_fiction_category.jpg",
+      "PackagePath": "staticwebassets\\Images\\history_fiction_category.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\reading.jpg",
+      "PackagePath": "staticwebassets\\Images\\reading.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\romance_ category.jpg",
+      "PackagePath": "staticwebassets\\Images\\romance_ category.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\Images\\sci_fi_category.jpg",
+      "PackagePath": "staticwebassets\\Images\\sci_fi_category.jpg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\avataaars.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\AdminStyle.css",
+      "PackagePath": "staticwebassets\\css\\AdminStyle.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\Edit.css",
+      "PackagePath": "staticwebassets\\css\\Edit.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\AdminMain.js",
+      "PackagePath": "staticwebassets\\js\\AdminMain.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ITI 9 Month - GIS Track\\ASP.NET MVC\\Final Project\\Online Book Store_Source Code\\My_Final_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Book_Store.props",
+      "PackagePath": "build\\Book_Store.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Book_Store.props",
+      "PackagePath": "buildMultiTargeting\\Book_Store.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Book_Store.props",
+      "PackagePath": "buildTransitive\\Book_Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

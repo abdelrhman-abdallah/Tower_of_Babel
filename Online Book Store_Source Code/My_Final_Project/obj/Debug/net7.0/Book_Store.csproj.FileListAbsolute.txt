@@ -1,0 +1,1056 @@
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\appsettings.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.exe
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.deps.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Humanizer.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NLog.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Npgsql.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\refint\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\trial\My_Final_Project_abdelrhman\My_Final_Project\My_Final_Project\obj\Debug\net7.0\ref\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\appsettings.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.exe
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.deps.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Humanizer.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NLog.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Npgsql.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\refint\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store\My_Final_Project\obj\Debug\net7.0\ref\Book_Store.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\appsettings.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.exe
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NLog.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Npgsql.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\SOUQ\OneDrive\Desktop\New folder (2)\Online Book Store\My_Final_Project\obj\Debug\net7.0\ref\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\appsettings.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.exe
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.deps.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Humanizer.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NLog.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Npgsql.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\refint\Book_Store.dll
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.pdb
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+D:\ITI 9 Month - GIS Track\ASP.NET MVC\Final Project\Online Book Store_Source Code\My_Final_Project\obj\Debug\net7.0\ref\Book_Store.dll
